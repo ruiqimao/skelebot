@@ -1,0 +1,12 @@
+{
+	"token": "",
+	"email": "",
+	"password": "",
+
+	"mongo_uri": "",
+
+	"owners": [
+		""
+	]
+
+}

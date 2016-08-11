@@ -1,0 +1,19 @@
+{
+  "name": "selfbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruiqi Mao",
+  "license": "ISC",
+  "dependencies": {
+    "app-module-path": "^1.1.0",
+    "co": "^4.6.0",
+    "decache": "^4.1.0",
+    "discord.js": "^8.1.0",
+    "mongorito": "^2.1.2",
+    "request": "^2.74.0"
+  }
+}
