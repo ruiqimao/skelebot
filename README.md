@@ -16,7 +16,7 @@ Edit the `src/authorization.json` file as such:
     "email": "<DISCORD EMAIL ADDRESS>",
     "password": "<DISCORD PASSWORD>",
 
-    "mongo_uri": "<MONGO_DB_URI>",
+    "mongo_uri": "<MONGODB URI>",
 
     "owners": [
         "<USER IDS OF BOT OWNERS>"
