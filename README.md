@@ -54,5 +54,8 @@ Run `npm install` to install all the dependencies.
 
 To get started with writing plugins, look at the example code in `src/bot/plugins/template`.
 
+## Running
+To run the bot, after doing all setup, configuration, and installation necessary, run `node entry.js` to start the bot.
+
 ## Questions?
 The code is provided AS IS. Any questions regarding Skelebot and how to use it can be directed to ruiqim@gmail.com, although response is not guaranteed.
