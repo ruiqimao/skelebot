@@ -10,7 +10,7 @@ This is a barebones Discord bot, based off the [discord.js](https://github.com/h
 
 ## Setup
 Edit the `src/authorization.json` file as such:
-```json
+```javascript
 {
     "token": "<DISCORD BOT TOKEN>",
     "email": "<DISCORD EMAIL ADDRESS>",
