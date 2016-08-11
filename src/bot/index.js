@@ -88,6 +88,9 @@ class Bot extends EventEmitter {
 		// Unload all the plugins.
 		this.unload()
 			.then(() => {
+				// Disconnect from the database.
+				if (this.db) this.db.close();
+
 				// Disconnect the bot.
 				this.client.logout();
 			})
